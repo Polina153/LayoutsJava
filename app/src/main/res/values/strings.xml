@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LayoutsJava</string>
+    <string name="button_sting">New button</string>
 </resources>
