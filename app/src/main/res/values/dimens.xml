@@ -3,4 +3,5 @@
     <dimen name="button_margin_start">16dp</dimen>
     <dimen name="button_margin_end">16dp</dimen>
     <dimen name="text_margin_top">16dp</dimen>
+    <dimen name="button_text">40sp</dimen>
 </resources>
